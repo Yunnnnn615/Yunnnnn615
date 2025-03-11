@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="60">&nbsp;Hi, I'm Roger!</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iansui&size=22&pause=1000&color=99205E&width=435&lines=HI!+I'm+Elena.)](https://git.io/typing-svg)
 
 I'm Roger, currently a Master's student at National Chengchi University (NCCU), focusing on quantitative trading, asset allocation.
 
